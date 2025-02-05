@@ -6,7 +6,7 @@ function UserProfile() {
       <img
         width={350}
         height={350}
-        src="https://i.pinimg.com/736x/af/49/85/af4985139f11b3fe882af6e66c0ff29a.jpg"
+        src="https://i.pinimg.com/736x/09/c3/c3/09c3c3316be2f6bccf8fd0e2737c7ad5.jpg"
         alt="User"
         style={{ borderRadius: "50%", marginBottom: "10px" }}
       />
